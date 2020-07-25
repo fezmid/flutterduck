@@ -1,0 +1,12 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags - Flutter Duck - Technology, Buffalo Bills, Pinball, Writing and More</title>
+    <link>http://www.flutterduck.com/tags/</link>
+    <description>Recent content in Tags on Flutter Duck - Technology, Buffalo Bills, Pinball, Writing and More</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+        <atom:link href="http://www.flutterduck.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
