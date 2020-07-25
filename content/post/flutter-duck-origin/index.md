@@ -6,7 +6,7 @@ categories: ["football", "technology"]
 toc: false
 displayInmenu: true
 displayInList: true
-draft: true
+draft: false
 dropCap: true
 resources:
 - name: featuredImage
