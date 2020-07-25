@@ -1,4 +1,4 @@
-baseURL = "http://www.flutterduck.com/"
+baseURL = "https://www.flutterduck.com/"
 title = "Flutter Duck - Technology, Buffalo Bills, Pinball, Writing and More"
 author = "Fezmid"
 theme = "aether"
