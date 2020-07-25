@@ -28,7 +28,7 @@ years later, I've decided to do something with it.
 
 Why here? Well, I've been wanting to learn how to use git for awhile. I created a GitHub account a few years ago, but never did
 much with it aside from throw some rudimentary Python Raspberry Pi scripts up, so I felt like this was a good first project to get
-a better handle on git commands and GitHub's process. After waking up the morning of July 25th, and seeing a tweet by <a href="https://twitter.com/varcharr">@varcharr</a>
+a better handle on git commands and GitHub's process. After waking up the morning of July 25th, and seeing a tweet by @varcharr
 explaining how she setup her site, I was motivated to "get it done." It took a few hours, and some tinkering of settings to get
 it to properly work, but it all seems good now!
 
