@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.flutterduck.com/categories/</loc>
-    <lastmod>2020-07-25T10:17:40-05:00</lastmod>
+    <loc>https://www.flutterduck.com/post/about/</loc>
+    <lastmod>2020-07-26T06:07:41-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.flutterduck.com/</loc>
+    <lastmod>2020-07-26T06:07:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flutterduck.com/post/</loc>
+    <lastmod>2020-07-26T06:07:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flutterduck.com/categories/</loc>
     <lastmod>2020-07-25T10:17:40-05:00</lastmod>
   </url>
   
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://www.flutterduck.com/categories/football/</loc>
-    <lastmod>2020-07-25T10:17:40-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.flutterduck.com/post/</loc>
     <lastmod>2020-07-25T10:17:40-05:00</lastmod>
   </url>
   
