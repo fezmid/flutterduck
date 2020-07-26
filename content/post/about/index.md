@@ -45,12 +45,13 @@ personally rewarding. I love competeting, either against myself or others, which
 I love movies and photography, and focus on the technical aspects. I did a photoshoot for a class many years ago, and this is one of my
 [favorite creative pictures I've taken](https://www.flickr.com/photos/43777639@N06/4471413888/in/album-72157623722581118/).
 
-One of my favorite movie quotes of all time is:
+{{< image src="zombie.jpg" alt="Woman with bat cowering from shadow of zombie" >}}
+
+As I mentioned, I love movies, and one of my favorite movie quotes of all time is:
 > Never give up, never surrender! - Galaxy Quest
 
-And most of all, I love learning. Which is why this site exists. This page was created to test some of the Hugo Markdown language. I 
-found a good reference page on [Sourceforge](https://sourceforge.net/p/hugo-generator/wiki/markdown_syntax/) that was helpful to
-start my journey.
+And most of all, I love learning. Which is why this site exists. This page was created to test some of the Hugo
+Markdown language. I found a good reference page on [Sourceforge](https://sourceforge.net/p/hugo-generator/wiki/markdown_syntax/)
+that was helpful to start my journey.
 
 If you want to connect, feel free to reach out to me on [Twitter](https://twitter.com/Fezmid)!
-
