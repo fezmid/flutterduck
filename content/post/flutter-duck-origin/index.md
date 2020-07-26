@@ -4,7 +4,7 @@ date: 2020-07-25T10:17:40-05:00
 description: "Where did the name FlutterDuck come from?"
 categories: ["football", "technology"]
 toc: false
-displayInmenu: true
+displayInmenu: false
 displayInList: true
 draft: false
 dropCap: true

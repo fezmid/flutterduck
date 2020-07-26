@@ -1,5 +1,5 @@
 baseURL = "https://www.flutterduck.com/"
-title = "Flutter Duck - Technology, Buffalo Bills, Pinball, Writing and More"
+title = "FlutterDuck - Technology, Buffalo Bills, Pinball, Writing and More"
 author = "Fezmid"
 theme = "aether"
 canonifyurls = true
@@ -9,5 +9,6 @@ paginate = 3
 brand = "FlutterDuck"
 description = "A place to learn about a little of everything"
 bgimg = "does/not/seem/to/work"
+
 #metaCreator = "Joe Hutchinson"
 #metaImage = "img/ogimage.jpg"
