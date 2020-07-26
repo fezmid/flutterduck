@@ -1,12 +1,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - Flutter Duck - Technology, Buffalo Bills, Pinball, Writing and More</title>
-    <link>http://www.flutterduck.com/categories/</link>
-    <description>Recent content in Categories on Flutter Duck - Technology, Buffalo Bills, Pinball, Writing and More</description>
+    <title>Categories - FlutterDuck - Technology, Buffalo Bills, Pinball, Writing and More</title>
+    <link>https://www.flutterduck.com/categories/</link>
+    <description>Recent content in Categories on FlutterDuck - Technology, Buffalo Bills, Pinball, Writing and More</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 25 Jul 2020 10:17:40 -0500</lastBuildDate>
     
-        <atom:link href="http://www.flutterduck.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.flutterduck.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>football</title>
+      <link>https://www.flutterduck.com/categories/football/</link>
+      <pubDate>Sat, 25 Jul 2020 10:17:40 -0500</pubDate>
+      
+      <guid>https://www.flutterduck.com/categories/football/</guid>
+      <description></description>
+    </item><item>
+      <title>technology</title>
+      <link>https://www.flutterduck.com/categories/technology/</link>
+      <pubDate>Sat, 25 Jul 2020 10:17:40 -0500</pubDate>
+      
+      <guid>https://www.flutterduck.com/categories/technology/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
