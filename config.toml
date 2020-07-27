@@ -8,7 +8,8 @@ paginate = 3
 [params]
 brand = "FlutterDuck"
 description = "A place to learn about a little of everything"
-bgimg = "does/not/seem/to/work"
+bgimg = "img/ignasi_pattern_s.png"
+rssinmenu = false
 
 #metaCreator = "Joe Hutchinson"
 #metaImage = "img/ogimage.jpg"
