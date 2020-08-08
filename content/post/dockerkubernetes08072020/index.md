@@ -1,7 +1,7 @@
 ---
 title: "Breaking Docker and Kubernetes"
 date: 2020-08-07T19:44:48-05:00
-description: "Some high leven stuff I learned at Black Hat 2020 about breaking out of containers."
+description: "Some high level stuff I learned at Black Hat 2020 about breaking out of containers."
 categories: ["technology","infosec"]
 toc: true
 displayInmenu: false
