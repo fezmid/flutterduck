@@ -6,7 +6,7 @@ categories: ["technology"]
 toc: true
 displayInmenu: false
 displayInList: true
-draft: true
+draft: false
 dropCap: true
 resources:
 - name: featuredImage
