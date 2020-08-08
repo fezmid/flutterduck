@@ -14,6 +14,11 @@ resources:
   params:
     description: "The docker and kubernetes logos"
 ---
+I expanded upon this article on [Neowin.net](https://www.neowin.net/news/exploring-the-lack-of-security-in-a-typical-docker-and-kubernets-installation),
+so please check it out over there to let us know if you'd like to see this type of content in the future!
+
+-----
+
 I have been in IT for a long time (20+ years), but have never had any hands on experience with containers.
 Conceptually, I understand what they are and how they work, but since I've never had to implement them,
 I wasn't sure how it worked. In addition, I had no idea how to actually secure them. Again, the concept
