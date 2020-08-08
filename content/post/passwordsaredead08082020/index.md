@@ -6,7 +6,7 @@ categories: ["technology","infosec"]
 toc: false
 displayInmenu: false
 displayInList: true
-draft: true
+draft: false
 dropCap: true
 resources:
 - name: featuredImage
