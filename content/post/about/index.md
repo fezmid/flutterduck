@@ -28,7 +28,7 @@ I have many interests as well, and I may or may not talk about them as time goes
 * [Movies](http://www.invelos.com/dvdcollection.aspx/fezmid)
 * Technology (particularly InfoSec)
 * Photography
-* Pinball
+* [Pinball](https://flutterduck.com/post/pinball-wizard-1/)
 * [Teaching](https://www.bu.edu/csmet/profile/chris-white/)
 * Video Games
 * Writing
