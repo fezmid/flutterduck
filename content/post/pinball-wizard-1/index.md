@@ -21,7 +21,7 @@ how much power the coils get, or even how you nudge the machine, something that 
 I'd like to say that I've been a pinball guy all my life, but that's not really the case. I remember watching my dad play
 pinball a bit when I was a kid, but I have no specific memories. My first memory is really seeing a Revenge From Mars machine
 in a local Buffalo Wild Wings and Weck (back when they were called BW3) and being in awe of the combination of computer game
-and pinball machine. Since then, I always had an itch to own a machine or two, but never had the room until a few years ago.
+and pinball machine. Since then, I always had an itch to own a machine or two, but never had the room.
 
 That changed when we moved into our new house a few years ago and I turned the basement into an entertainment area for sports, 
 movies, and games. In addition to building a MAME machine with a Raspberry Pi (maybe a topic for a future post?), I also put
