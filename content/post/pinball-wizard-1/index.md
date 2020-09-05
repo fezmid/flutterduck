@@ -2,7 +2,7 @@
 title: "Pinball Wizard"
 date: 2020-09-04T19:44:48-05:00
 description: "A little about my pinball hobby, and how you can support kids at Children's Hospitals"
-draft: true
+draft: false
 categories: ["pinball"]
 toc: false
 displayInmenu: false
