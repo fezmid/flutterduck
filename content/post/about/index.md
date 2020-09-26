@@ -20,7 +20,9 @@ Oh wait, no, I mixed up my computer stuff with my movie stuff. Let's try that ag
 Seriously though, I'm just a regular guy who wanted to learn a little more about GitHub and Hugo, so decided to make a site to help
 with that learning process. 
 
-I have many interests as well, and I may or may not talk about them as time goes on here. Some of them are:
+My name's Chris White, and I'm known as Fezmid on [Twitter](https://www.twitter.com/fezmid). 
+
+I have many interests, and I may or may not talk about them as time goes on here. Some of them are:
 
 * American Football (Buffalo Bills!)
 * [Board Games](https://boardgamegeek.com/collection/user/Fezmid2)
@@ -31,7 +33,7 @@ I have many interests as well, and I may or may not talk about them as time goes
 * [Pinball](https://flutterduck.com/post/pinball-wizard-1/)
 * [Teaching](https://www.bu.edu/csmet/profile/chris-white/)
 * Video Games
-* Writing
+* Writing, both fiction (for fun)  and [technology](https://www.neowin.net/profile/christopher_white/)
 
 Technology is my main passion. I grew up in the 80s and my family always had a computer around. We had a Commodore 64, a Commodore 128,
 a Commodore Amiga 500 (see a trend?). We also had a Timex Sinclair 1000 and a Timex Sinclair 2068. We had an Intellivision, and had the
