@@ -1,6 +1,6 @@
 ---
 title: "Security is about culture and process more than tools"
-date: 2020-09-30T19:18:23-05:00
+date: 2020-10-02T19:18:23-05:00
 description: "Security is more than just buying a product. It requiers culture and processes as the base to make things work."
 categories: ["technology","infosec"]
 toc: false
