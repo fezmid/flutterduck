@@ -20,7 +20,7 @@ Oh wait, no, I mixed up my computer stuff with my movie stuff. Let's try that ag
 Seriously though, I'm just a regular guy who wanted to learn a little more about GitHub and Hugo, so decided to make a site to help
 with that learning process. 
 
-My name's Chris White, and I'm known as [Fezmid on Twitter](https://www.twitter.com/fezmid).  You can find me [here on LinkedIn](https://www.linkedin.com/in/cwhite/).
+My name's Chris White, and I'm known as [Fezmid on Twitter](https://www.twitter.com/fezmid).  You can find me [here on LinkedIn](https://www.linkedin.com/in/cwhite/). And my (currently tiny) [GitHub site is here](https://www.github.com/fezmid).
 
 I have many interests, and I may or may not talk about them as time goes on here. Some of them are:
 
