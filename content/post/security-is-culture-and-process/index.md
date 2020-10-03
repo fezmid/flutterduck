@@ -15,8 +15,9 @@ resources:
     description: "Triangle with culture as the foundation, policy in the middle, and tools at the top"
 ---
 There's no question that data security becomes increasingly important on a daily basis, and with more information being pushed to the cloud, the topic
-is magnified. Unfortunately, many firms that sell security tools have been putting their profit motives first, so instead of taking a risk-based 
-appraoch, start spreading fear, uncertainty, and doubt, or FUD as it's known in the industry.
+is magnified. Unfortunately, many firms that sell security tools put their profits first, so instead of taking a risk-based approach, start spreading fear,
+uncertainty, and doubt, or FUD as it's known in the industry. Don't jump into buying a product unless you already have a good security foundation in your
+organization.
 
 Let me be clear: **Security begins with culture.**
 
@@ -25,8 +26,8 @@ suffer. It's important to empower every employee to speak out about issues they'
 prioritized. In addition, we are all human: Expect that people will make mistakes, but move quickly to contain and remediate those mistakes. Your
 culture should emphasize teamwork, collaboration, and openness, and always eschew blame.
 
-When building the culture, don't make it boring. You should have awareness trainings, for example, but don't rely on boring PowerPoint presentations.
-Make the awareness interactive whenever you can. This can include highlighting incidents that your organization has experienced and give
+When building the culture, don't make it boring. You should have awareness trainings, for example, but don't rely on mundane PowerPoint presentations.
+Make the awareness interactive whenever you can. This can include highlighting incidents that your organization has experienced and giving
 examples on ways to prevent them in the future. Bonus points for engaging the organization to obtain these ideas. Security does not rest solely
 with the security team.
 
