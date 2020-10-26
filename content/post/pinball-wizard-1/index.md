@@ -12,7 +12,7 @@ resources:
 - name: featuredImage
   src: "project_pinball_logo.jpg"
   params:
-    description: "The docker and kubernetes logos"
+    description: "Project pinball logo"
 ---
 Pinball is such an interesting game to play. While video games are predictable - when you do X, Y will always happen - pinball is
 different because it's a physical game and can react differently based on little things like how worn the balls or rubbers are,
@@ -43,7 +43,7 @@ lineup at some point...
 Unlike a video game, pinball machines require quite a bit of maintenance. Since you have a steel ball flying around at high speeds,
 and coils firing to make it bounce around, quite a bit of dirt and metal shavings makes its way to the playfield. I find that 
 playing some music (or watching a football game in the background) while cleaning them out is a pretty relaxing way to spend an 
-hour or two. This probably won't interst anybody, but this is my method for cleaning:
+hour or two. This probably won't interest anybody, but this is my method for cleaning:
 
 * Replace old rubbers
 * Vacuum the playfield
