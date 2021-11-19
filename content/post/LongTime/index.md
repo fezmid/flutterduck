@@ -1,11 +1,4 @@
 ---
-title: "LongTime"
-date: 2021-11-19T14:16:35-06:00
-draft: true
----
-
-
----
 title: "It's been awhile..."
 date: 2021-11-19T14:17:48-05:00
 description: "Looks like I implemented a nice logo for Flutterduck.com, and then vanished... Not promising I'll be back frequently, but I will try to be a bit more frequent with my posts"
