@@ -11,9 +11,9 @@ displayInList: true
 dropCap: true
 resources:
 - name: featuredImage
-  src: "SheepishGrin.png"
+  src: "FlutterDuck-3d.jpg"
   params:
-    description: "Emoji with a sheepish grin"
+    description: "Render of cardboard with the Flutterduck logo on it"
 ---
 Looks like I disappeared again, huh? Sorry about that... Between my [day job](https://www.linkedin.com/in/cwhite/), family life,
 and a little downtime, I unfortunately don't have much time to write. I would promise to try and do better, but I don't want to
