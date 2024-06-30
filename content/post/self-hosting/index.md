@@ -1,7 +1,7 @@
 ---
 title: "Self-Hosting Series on Neowin"
 date: 2024-06-30T17:41:10-05:00
-draft: true
+draft: false
 description: "I've started a series about self-hosting. What is it? Why would you want to do it? And most importantly, step-by-step guides to do it and start learning from it. Check it out!"
 categories: ["technology"]
 toc: false
